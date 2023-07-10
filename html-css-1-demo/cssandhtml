@@ -1,0 +1,72 @@
+devidece width - it will cover all the screen depending on the device 
+
+utf-8 , is the collection of all symbols and characters
+
+charset - is the characters set
+
+using the exclamation ! it will copy oall the doctype
+
+http://localhost:5500 (5500 is the port in VS)
+
+span is the inline element, fits in the line it does not stack, and only take th width that they need.
+
+<hr> puts the line to divide a section putting a line 
+<br> separates but doesnt put a line
+ p>img image with text then enter and will write the entire syntax
+
+ <p>img src= "" </p>
+
+ alt - write a small description of the image for inclusivity
+
+ lorem- just writes stuff so it wont be empty
+
+ margin 0 auto : distributs its equally
+
+ <ul> to make a list
+<ol> bulleted with numbers
+
+ <li> to have bullet points
+
+ to create variables in Css
+
+ :root{
+ --primary--color:teal;
+ --secondary:white;
+ }
+ 
+
+to invoke the variable instead of typing teal, now is var(--primary--color)
+
+<nav> gets you to some parts of the website
+
+
+whenever using absolute, the ancestor has to be relative
+
+position Z-index: must have position style (relative/absolute) z-index 1, z-index:2 , the one with the higher index it will be above the other
+
+FLEXBOX
+first the parent gets the display
+the default value for flex is a row
+
+align item will take care of the vertical
+justify content of the horizontal
+
+border box : adds the padding, border or margin inside. the size will not change
+content box modifies its size
+
+
+<form> its an element that allows us to handle info
+<input>
+
+when we set the value, it has tu match the label
+
+for "am"
+the id in input has to match the value in for inside the label
+
+DOM , Document Object Model 
+
+the query selecto will only choose the first tag that it finds 
+
+the query selector all is called a nodelist  (its similar to an array) instead of returning the firstone, it gives you all the tags
+each individual p tag is going to be an object 
+
